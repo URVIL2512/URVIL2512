@@ -10,6 +10,16 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=URVIL2512&theme=github-dark&hide_border=true&hide_total_contributions=true" />
+</p> -->
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=URVIL2512&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=URVIL2512&theme=github-dark&hide_border=true" />
 </p>
