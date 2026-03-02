@@ -1,5 +1,9 @@
 #  About Me:
- I’m currently working on building real-world projects in full-stack development and AI, where I can apply what I learn in practical ways.<br> I’m open to collaborating on creative tech ideas, especially projects related to web development, AI, or problem-solving platforms.<br> I’m looking for guidance in advanced backend systems, scalable architectures, and research-based AI applications.<br> Right now, I’m improving my skills in React, Node.js, cloud technologies, and applied artificial intelligence.<br> You can ask me about Java, web development, databases, or how to turn ideas into working software projects.<br> A small fun fact about me: I genuinely enjoy transforming simple ideas into meaningful digital solutions that people can actually use.<br>
+- 🚀 Building real-world Full-Stack & AI projects  
+- 🤝 Open to collaborating on Web, AI & problem-solving platforms  
+- 🧠 Exploring scalable backend systems & advanced architectures  
+- ⚛️ Improving skills in React, Node.js, Cloud & Applied AI  
+- 🛠 Turning ideas into practical, impactful software solutions  
 
 
 ## 🌐 Socials:
